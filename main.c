@@ -2,6 +2,6 @@
 
 int main(){
 
-printf("준수 바보");
+printf("Hello world");
 return 0;
 }
